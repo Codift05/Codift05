@@ -13,8 +13,11 @@ I am a creative 🎨, time-punctual ⏰, dedicated 🚀, goal-oriented individua
 <p> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"> <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5.svg?logo=Firebase&logoColor=white"> <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"> <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"> </p>
 💻 Software and Tools
 <p> <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"> <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"> <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"> </p>
-📊 Github Stats
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Codift05&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codift05&layout=compact&theme=dark&hide_border=true"/> </p>
+📈 Contribution Activity
+<div align="center">
+  <p><b>75 contributions</b> in the last year</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codift05&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%">
+</div>
 🎓 Education
 🎓 Mahasiswa di Universitas Sam Ratulangi Manado
 💻 Fokus pada Web Development / Design / Machine Learning
