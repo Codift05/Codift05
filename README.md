@@ -8,6 +8,11 @@ I am a creative 🎨, time-punctual ⏰, dedicated 🚀, goal-oriented individua
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codift05&theme=dark&hide_border=true" alt="Codift05's Streak Stats" />
 </div>
+📈 Contribution Activity
+<div align="center">
+  <p><b>75 contributions</b> in the last year</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codift05&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%">
+</div>
 🛠️ My Favorite Tools
 👨‍💻 Programming Languages
 <p>
@@ -41,37 +46,3 @@ I am a creative 🎨, time-punctual ⏰, dedicated 🚀, goal-oriented individua
   <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white">
 </p>
-📊 Github Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Codift05&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codift05&layout=compact&theme=dark&hide_border=true"/>
-</p>
-🎓 Education
-
-🎓 Mahasiswa di Universitas Sam Ratulangi Manado
-💻 Fokus pada Web Development / Design / Machine Learning
-📚 Selalu belajar dan mengembangkan diri
-
-🔍 Featured Projects
-
-BioKonversi.App - Aplikasi konversi biometrik
-K-Means-Clustering - Implementasi algoritma K-Means untuk clustering data
-
-🌐 Let's Connect
-<p align="center">
-  <a href="https://www.instagram.com/mfthsarsyd">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:miftahsarsyd@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Codift05">
-    <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Codift05&style=flat-square&color=blue" alt="Profile views"/>
-  <br>
-  <i>"Code until jannah"</i> - Miftahuddin S. Arsyad
-</div>
