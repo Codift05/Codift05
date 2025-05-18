@@ -1,5 +1,8 @@
-Hi, I'm Miftahuddin S. Arsyad! 👋
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFAC1C&center=true&vCenter=true&random=false&width=435&lines=Always+code+until+jannah" alt="Typing SVG" /> </div>
+v4∙LatestExportPublishHi, I'm Miftahuddin S. Arsyad! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFAC1C&center=true&vCenter=true&random=false&width=435&lines=Always+code+until+jannah" alt="Typing SVG" />
+</div>
+
 I am a creative 🎨, time-punctual ⏰, dedicated 🚀, goal-oriented individual 🎯 with strong moral values and ethics 👔 along with a high energy level ⚡, good communication skills 💬, strong organizational skills 📊, and attention to detail.
 
 🔥 Streak Stats
