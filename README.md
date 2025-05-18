@@ -1,4 +1,4 @@
-v4∙LatestExportPublishHi, I'm Miftahuddin S. Arsyad! 👋
+I'm Miftahuddin S. Arsyad! 👋
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFAC1C&center=true&vCenter=true&random=false&width=435&lines=Always+code+until+jannah" alt="Typing SVG" />
 </div>
