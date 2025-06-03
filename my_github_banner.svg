@@ -1,0 +1,41 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="bannerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3D1A66;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#5A268C;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7B3FAF;stop-opacity:1" />
+    </linearGradient>
+    <pattern id="diagonalLines" patternUnits="userSpaceOnUse" width="20" height="20" patternTransform="rotate(45)">
+      <line x1="10" y1="0" x2="10" y2="20" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  
+  <rect width="1200" height="320" fill="url(#bannerGradient)"/>
+  <rect width="1200" height="320" fill="url(#diagonalLines)"/>
+
+  <g transform="translate(280, 90) scale(1.8)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8C0 11.54 2.29 14.53 5.47 15.59C5.87 15.66 6.02 15.42 6.02 15.21C6.02 15.02 6.01 14.49 6.01 13.79C3.73 14.24 3.26 12.86 3.26 12.86C2.9 11.98 2.38 11.73 2.38 11.73C1.63 11.24 .94 11.28 .94 11.28C1.75 11.33 2.17 12.11 2.17 12.11C2.89 13.34 4.16 12.96 4.64 12.74C4.71 12.25 4.91 11.91 5.12 11.73C3.42 11.54 1.65 10.93 1.65 7.77C1.65 6.89 1.96 6.15 2.49 5.58C2.39 5.34 2.13 4.52 2.59 3.53C2.59 3.53 3.25 3.31 4.62 4.24C5.24 4.05 5.92 3.96 6.61 3.96C7.29 3.96 7.98 4.05 8.59 4.24C9.96 3.31 10.62 3.53 10.62 3.53C11.08 4.52 10.82 5.34 10.72 5.58C11.25 6.15 11.56 6.89 11.56 7.77C11.56 10.94 9.79 11.54 8.09 11.73C8.36 11.97 8.61 12.48 8.61 13.28C8.61 14.39 8.59 15.28 8.59 15.54C8.59 15.76 8.75 16.01 9.15 15.93C12.32 14.92 14.61 11.92 14.61 8.43C14.61 3.76 11.33 0 8 0Z" transform="translate(0,0) scale(5)" fill="white" opacity="0.9"/>
+  </g>
+  
+  <text x="620" y="150" fill="white" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="65" font-weight="bold" text-anchor="middle" letter-spacing="2">
+    HELLO WORLD
+  </text>
+  <text x="620" y="205" fill="rgba(255,255,255,0.8)" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="28" font-weight="normal" text-anchor="middle" letter-spacing="1">
+    WELCOME TO MY PROFILE
+  </text>
+
+  <g opacity="0.7">
+    <rect x="50" y="250" width="20" height="2" fill="white"/>
+    <rect x="75" y="250" width="20" height="2" fill="white"/>
+    <rect x="100" y="250" width="20" height="2" fill="white"/>
+    <text x="135" y="258" fill="white" font-family="Arial, sans-serif" font-size="14">[Link Kiri Anda]</text>
+  </g>
+
+  <g opacity="0.7" text-anchor="end">
+    <rect x="1130" y="250" width="20" height="2" fill="white"/>
+    <rect x="1105" y="250" width="20" height="2" fill="white"/>
+    <rect x="1080" y="250" width="20" height="2" fill="white"/>
+    <text x="1065" y="258" fill="white" font-family="Arial, sans-serif" font-size="14">[Link Kanan Anda]</text>
+  </g>
+
+</svg>
