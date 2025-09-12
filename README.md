@@ -1,10 +1,6 @@
 # Halo! I'm Miftahuddin S. Arsyad
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Always+Coding+Until+Jannah+%F0%9F%8C%99;Building+Digital+Dreams+%E2%9C%A8" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <img src="https://github.com/Codift05/Codift05/blob/output/snake.svg" alt="Snake animation" />
 </div>
 
