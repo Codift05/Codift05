@@ -10,7 +10,6 @@ const miftah = {
     location: "Manado, Indonesia 🇮🇩",
     education: "Universitas Sam Ratulangi",
     passion: ["Web Development", "UI/UX Design", "Machine Learning"],
-    motto: "Code until Jannah ",
     currentFocus: "Building awesome web applications",
     funFact: "I debug with console.log() and I'm not ashamed! "
 };
@@ -126,7 +125,6 @@ for goal in goals_2024:
 ![Followers](https://img.shields.io/github/followers/Codift05?style=for-the-badge&color=00D9FF)
 ![Stars](https://img.shields.io/github/stars/Codift05?style=for-the-badge&color=00D9FF)
 
-### *"Always code until Jannah"*
 **- Miftahuddin S. Arsyad**
 
 </div>
