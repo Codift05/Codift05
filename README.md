@@ -1,5 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Miftahuddin%20S.%20Arsyad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img width="100%" src="https://i.imgur.com/jxKp8Vl.jpg" alt="Banner"/>
+  
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Miftahuddin+S.+Arsyad;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  </h1>
 </div>
 
 <div align="center">
@@ -109,21 +113,87 @@ console.log("Welcome to my digital world!");
 
 ---
 
-## Current Focus
+##  Current Focus
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[Learning] --> B[Building]
-    B --> C[Deploying]
-    C --> D[Iterating]
-    D --> A
-    style A fill:#00D9FF
-    style B fill:#00D9FF
-    style C fill:#00D9FF
-    style D fill:#00D9FF
+<table>
+<tr>
+<td width="50%">
+
+###  What I'm Building
+```typescript
+const currentProjects = {
+   webApp: "Next.js E-Commerce Platform",
+   mobileApp: "React Native Fitness Tracker",
+   aiProject: "Machine Learning Chatbot",
+   status: "In Active Development"
+};
 ```
+
+</td>
+<td width="50%">
+
+###  What I'm Learning
+```python
+learning_path = {
+    "frontend": ["Next.js 15", "Three.js"],
+    "backend": ["GraphQL", "Microservices"],
+    "devops": ["Docker", "Kubernetes"],
+    "ai_ml": ["TensorFlow", "PyTorch"]
+}
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#ff6b9d', 'primaryTextColor':'#fff', 'primaryBorderColor':'#00d9ff', 'lineColor':'#00d9ff', 'secondaryColor':'#1a1b27', 'tertiaryColor':'#2d2e3a'}}}%%
+graph LR
+    A[ Learn New Tech] -->|Master Skills| B[🛠️ Build Projects]
+    B -->|Test & Optimize| C[ Deploy to Production]
+    C -->|Gather Feedback| D[ Iterate & Improve]
+    D -->|Expand Knowledge| A
+    
+    style A fill:#ff6b9d,stroke:#00d9ff,stroke-width:3px,color:#fff
+    style B fill:#00d9ff,stroke:#ff6b9d,stroke-width:3px,color:#000
+    style C fill:#ff6b9d,stroke:#00d9ff,stroke-width:3px,color:#fff
+    style D fill:#00d9ff,stroke:#ff6b9d,stroke-width:3px,color:#000
+```
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+###  Current Sprint Goals
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/>
+  <br><strong>Code Quality</strong>
+  <br><sub>Write clean, maintainable code</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/fluency/96/000000/learning.png" width="50"/>
+  <br><strong>Daily Learning</strong>
+  <br><sub>1 hour of focused learning</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50"/>
+  <br><strong>Ship Features</strong>
+  <br><sub>Deploy weekly improvements</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/fluency/96/000000/collaboration.png" width="50"/>
+  <br><strong>Contribute</strong>
+  <br><sub>Open source contributions</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
