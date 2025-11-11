@@ -1,8 +1,8 @@
 <div align="center">
-  <img width="100%" src="https://i.imgur.com/jxKp8Vl.jpg" alt="Banner"/>
+  <img width="100%" src="img/download (8).jpg" alt="Banner"/>
   
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Miftahuddin+S.+Arsyad;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=45&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Miftahuddin+S.+Arsyad;Full+Stack+Developer+%F0%9F%9A%80;Tech+Enthusiast+%F0%9F%92%BB;Building+Digital+Dreams+%E2%9C%A8" alt="Typing SVG" />
   </h1>
 </div>
 
