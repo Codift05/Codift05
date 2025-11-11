@@ -2,13 +2,13 @@
   <img width="100%" src="img/banner.png" alt="Banner"/>
   
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=45&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Miftahuddin+S.+Arsyad;Full+Stack+Developer+%F0%9F%9A%80;Tech+Enthusiast+%F0%9F%92%BB;Building+Digital+Dreams+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=48&duration=4000&pause=1500&color=7FAA65&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Developer;Building+Scalable+Solutions;Turning+Vision+Into+Reality" alt="Typing SVG" />
   </h1>
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%7C+Tech+Enthusiast;Crafting+Digital+Solutions;Turning+Ideas+Into+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3500&pause=1200&color=8FB573&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Crafting+elegant+code+with+modern+technologies;Specialized+in+Web+Development+and+Machine+Learning;Passionate+about+creating+impactful+digital+experiences)](https://git.io/typing-svg)
 
 </div>
 
