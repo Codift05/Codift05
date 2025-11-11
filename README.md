@@ -173,22 +173,38 @@ graph LR
 <table>
 <tr>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/>
+  <svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="24" height="24" rx="6" fill="#7FAA65" fill-opacity="0.2"/>
+    <path d="M8 7h8M8 12h8M8 17h5" stroke="#7FAA65" stroke-width="2" stroke-linecap="round"/>
+  </svg>
   <br><strong>Code Quality</strong>
   <br><sub>Write clean, maintainable code</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/96/000000/learning.png" width="50"/>
+  <svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="24" height="24" rx="6" fill="#8FB573" fill-opacity="0.2"/>
+    <circle cx="12" cy="12" r="8" stroke="#8FB573" stroke-width="2"/>
+    <path d="M12 8v4l3 3" stroke="#8FB573" stroke-width="2" stroke-linecap="round"/>
+  </svg>
   <br><strong>Daily Learning</strong>
   <br><sub>1 hour of focused learning</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50"/>
+  <svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="24" height="24" rx="6" fill="#A8C686" fill-opacity="0.2"/>
+    <path d="M12 3l9 18H3l9-18z" stroke="#A8C686" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12 9v6M12 18h.01" stroke="#A8C686" stroke-width="2" stroke-linecap="round"/>
+  </svg>
   <br><strong>Ship Features</strong>
   <br><sub>Deploy weekly improvements</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/96/000000/collaboration.png" width="50"/>
+  <svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="24" height="24" rx="6" fill="#7FAA65" fill-opacity="0.2"/>
+    <circle cx="9" cy="7" r="3" stroke="#7FAA65" stroke-width="2"/>
+    <circle cx="15" cy="17" r="3" stroke="#7FAA65" stroke-width="2"/>
+    <path d="M9 10v7M15 14V7" stroke="#7FAA65" stroke-width="2" stroke-linecap="round"/>
+  </svg>
   <br><strong>Contribute</strong>
   <br><sub>Open source contributions</sub>
 </td>
