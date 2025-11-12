@@ -14,31 +14,111 @@
 
 ---
 
-## About Me
+##  About Me
 
-```javascript
-const mip = {
-    name: "Miftahuddin S. Arsyad",
-    location: "Manado, Indonesia",
-    education: "Universitas Sam Ratulangi",
-    role: "Full Stack Developer",
-    passion: ["Web Development", "Mobile Development", "Machine Learning"],
-    currentFocus: "Building awesome web applications",
-    tagline: "Code is poetry written in logic",
-    workingOn: "Innovative web solutions",
-    learning: ["Advanced React Patterns", "Cloud Architecture", "AI/ML"],
-    askMeAbout: ["Web Dev", "Tech", "Cat"],
-    funFact: "I debug with console.log() and I'm not ashamed"
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Professional Profile
+
+```typescript
+interface Developer {
+  name: string;
+  location: string;
+  role: string;
+  education: string;
+  experience: string[];
+}
+
+const profile: Developer = {
+  name: "Miftahuddin S. Arsyad",
+  location: "Manado, Indonesia",
+  role: "Full Stack Developer",
+  education: "Universitas Sam Ratulangi",
+  experience: [
+    "Web Development",
+    "Mobile Development", 
+    "Machine Learning"
+  ]
 };
-
-console.log("Welcome to my digital world!");
 ```
+
+</td>
+<td width="50%" valign="top">
+
+### Current Status
+
+```python
+class CurrentFocus:
+    def __init__(self):
+        self.working_on = "Scalable Web Applications"
+        self.learning = [
+            "Advanced React Patterns",
+            "Cloud Architecture",
+            "AI/ML Integration"
+        ]
+        self.interests = [
+            "System Design",
+            "Performance Optimization",
+            "Developer Experience"
+        ]
+    
+    def get_motto(self):
+        return "Code is poetry written in logic"
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### Technical Expertise
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <br>
+  <img src="https://img.shields.io/badge/Frontend-7FAA65?style=for-the-badge&labelColor=1a1b27" alt="Frontend"/>
+  <br><br>
+  <sub><b>React • Next.js • TypeScript</b></sub>
+  <br>
+  <sub>Tailwind CSS • Three.js</sub>
+  <br><br>
+</td>
+<td align="center" width="33%">
+  <br>
+  <img src="https://img.shields.io/badge/Backend-8FB573?style=for-the-badge&labelColor=1a1b27" alt="Backend"/>
+  <br><br>
+  <sub><b>Node.js • Express • Python</b></sub>
+  <br>
+  <sub>GraphQL • REST APIs</sub>
+  <br><br>
+</td>
+<td align="center" width="33%">
+  <br>
+  <img src="https://img.shields.io/badge/DevOps-A8C686?style=for-the-badge&labelColor=1a1b27" alt="DevOps"/>
+  <br><br>
+  <sub><b>Docker • Git • CI/CD</b></sub>
+  <br>
+  <sub>Cloud Deployment</sub>
+  <br><br>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-###  My Coding Journey
+###  Coding Statistics
   
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Codift05&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=7FAA65&fire=8FB573&currStreakLabel=7FAA65"/>
 
