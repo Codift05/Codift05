@@ -7,8 +7,6 @@
 </div>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3500&pause=1200&color=8FB573&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Crafting+elegant+code+with+modern+technologies;Specialized+in+Web+Development+and+Machine+Learning;Passionate+about+creating+impactful+digital+experiences)](https://git.io/typing-svg)
 
 </div>
 
