@@ -126,7 +126,7 @@ class CurrentFocus:
 
 ---
 
-## Tech Arsenal
+## Tech
 
 <div align="center">
 
