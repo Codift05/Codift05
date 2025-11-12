@@ -1,10 +1,6 @@
 <div align="center">
   <img width="100%" src="img/banner.png" alt="Banner"/>
   
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=48&duration=4000&pause=1500&color=7FAA65&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Developer;Building+Scalable+Solutions;Turning+Vision+Into+Reality" alt="Typing SVG" />
-  </h1>
-</div>
 
 <div align="center">
 
