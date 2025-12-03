@@ -14,98 +14,58 @@
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### Professional Profile
+<td width="60%" valign="top">
 
 ```typescript
-interface Developer {
-  name: string;
-  location: string;
-  role: string;
-  education: string;
-  experience: string[];
-}
-
-const profile: Developer = {
+const developer = {
   name: "Miftahuddin S. Arsyad",
   location: "Manado, Indonesia",
   role: "Full Stack Developer",
   education: "Universitas Sam Ratulangi",
-  experience: [
-    "Web Development",
-    "Mobile Development", 
-    "Machine Learning"
-  ]
+  
+  focus: "Building scalable web applications",
+  learning: ["React Patterns", "Cloud Architecture", "AI/ML"],
+  interests: ["System Design", "Performance", "DX"],
+  
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
+    backend: ["Node.js", "Express", "Python", "GraphQL"],
+    tools: ["Docker", "Git", "CI/CD", "Cloud"]
+  },
+  
+  motto: "Code is poetry written in logic"
 };
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top" align="center">
 
-### Current Status
+<br><br>
 
-```python
-class CurrentFocus:
-    def __init__(self):
-        self.working_on = "Scalable Web Applications"
-        self.learning = [
-            "Advanced React Patterns",
-            "Cloud Architecture",
-            "AI/ML Integration"
-        ]
-        self.interests = [
-            "System Design",
-            "Performance Optimization",
-            "Developer Experience"
-        ]
-    
-    def get_motto(self):
-        return "Code is poetry written in logic"
-```
+### Quick Stats
 
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Experience-7FAA65?style=for-the-badge&logo=code&logoColor=white" alt="Experience"/>
+
+**Web Development**  
+**Mobile Development**  
+**Machine Learning**
 
 <br>
 
-### Technical Expertise
+<img src="https://img.shields.io/badge/Focus-8FB573?style=for-the-badge&logo=target&logoColor=white" alt="Focus"/>
 
-<table>
-<tr>
-<td align="center" width="33%">
-  <br>
-  <img src="https://img.shields.io/badge/Frontend-7FAA65?style=for-the-badge&labelColor=1a1b27" alt="Frontend"/>
-  <br><br>
-  <sub><b>React • Next.js • TypeScript</b></sub>
-  <br>
-  <sub>Tailwind CSS • Three.js</sub>
-  <br><br>
-</td>
-<td align="center" width="33%">
-  <br>
-  <img src="https://img.shields.io/badge/Backend-8FB573?style=for-the-badge&labelColor=1a1b27" alt="Backend"/>
-  <br><br>
-  <sub><b>Node.js • Express • Python</b></sub>
-  <br>
-  <sub>GraphQL • REST APIs</sub>
-  <br><br>
-</td>
-<td align="center" width="33%">
-  <br>
-  <img src="https://img.shields.io/badge/DevOps-A8C686?style=for-the-badge&labelColor=1a1b27" alt="DevOps"/>
-  <br><br>
-  <sub><b>Docker • Git • CI/CD</b></sub>
-  <br>
-  <sub>Cloud Deployment</sub>
-  <br><br>
+**Scalable Architecture**  
+**Clean Code Practices**  
+**Continuous Learning**
+
+<br>
+
 </td>
 </tr>
 </table>
