@@ -212,64 +212,7 @@ learning_path = {
 </tr>
 </table>
 
-<br>
-
-### Development Cycle
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#7FAA65', 'primaryTextColor':'#fff', 'primaryBorderColor':'#8FB573', 'lineColor':'#A8C686', 'secondaryColor':'#1a1b27', 'tertiaryColor':'#2d2e3a', 'fontSize':'16px'}}}%%
-flowchart TD
-    A[Research & Learning]
-    B[Design & Architecture]
-    C[Development & Testing]
-    D[Deployment & Monitoring]
-    E[Feedback & Iteration]
-    
-    A -->|Plan| B
-    B -->|Build| C
-    C -->|Ship| D
-    D -->|Analyze| E
-    E -->|Optimize| A
-    
-    style A fill:#7FAA65,stroke:#A8C686,stroke-width:3px,color:#fff,rx:10
-    style B fill:#8FB573,stroke:#A8C686,stroke-width:3px,color:#fff,rx:10
-    style C fill:#7FAA65,stroke:#A8C686,stroke-width:3px,color:#fff,rx:10
-    style D fill:#8FB573,stroke:#A8C686,stroke-width:3px,color:#fff,rx:10
-    style E fill:#7FAA65,stroke:#A8C686,stroke-width:3px,color:#fff,rx:10
-```
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="20%">
-  <img src="https://img.shields.io/badge/Research-7FAA65?style=for-the-badge" alt="Research"/>
-  <br><sub>Technology exploration and requirements analysis</sub>
-</td>
-<td align="center" width="20%">
-  <img src="https://img.shields.io/badge/Design-8FB573?style=for-the-badge" alt="Design"/>
-  <br><sub>System architecture and solution planning</sub>
-</td>
-<td align="center" width="20%">
-  <img src="https://img.shields.io/badge/Develop-7FAA65?style=for-the-badge" alt="Develop"/>
-  <br><sub>Implementation with clean code practices</sub>
-</td>
-<td align="center" width="20%">
-  <img src="https://img.shields.io/badge/Deploy-8FB573?style=for-the-badge" alt="Deploy"/>
-  <br><sub>Production release and monitoring</sub>
-</td>
-<td align="center" width="20%">
-  <img src="https://img.shields.io/badge/Iterate-7FAA65?style=for-the-badge" alt="Iterate"/>
-  <br><sub>Continuous improvement cycle</sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-###  Current Sprint Goals
+### Current Sprint Goals
 
 <table>
 <tr>
