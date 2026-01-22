@@ -12,71 +12,8 @@
   <img src="https://img.shields.io/github/stars/Codift05?style=flat-square&color=7FAA65" alt="Stars"/>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-<div align="center">
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-```typescript
-const developer = {
-  name: "Miftahuddin S. Arsyad",
-  location: "Manado, Indonesia",
-  role: "Full Stack Developer",
-  education: "Universitas Sam Ratulangi",
-  
-  focus: "Building scalable web applications",
-  learning: ["React Patterns", "Cloud Architecture", "AI/ML"],
-  interests: ["System Design", "Performance", "DX"],
-  
-  stack: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
-    backend: ["Node.js", "Express", "Python", "GraphQL"],
-    tools: ["Docker", "Git", "CI/CD", "Cloud"]
-  },
-  
-  motto: "Code is poetry written in logic"
-};
-```
-
 </td>
 <td width="40%" valign="top" align="center">
-
-<br><br>
-
-### Quick Stats
-
-<img src="https://img.shields.io/badge/Experience-7FAA65?style=for-the-badge&logo=code&logoColor=white" alt="Experience"/>
-
-**Web Development**  
-**Mobile Development**  
-**Machine Learning**
-
-<br>
-
-<img src="https://img.shields.io/badge/Focus-8FB573?style=for-the-badge&logo=target&logoColor=white" alt="Focus"/>
-
-**Scalable Architecture**  
-**Clean Code Practices**  
-**Continuous Learning**
-
-<br>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ###  Coding Statistics
   
@@ -86,7 +23,7 @@ const developer = {
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 <div align="center">
 
@@ -174,90 +111,6 @@ const developer = {
 [![K-Means](https://github-readme-stats.vercel.app/api/pin/?username=Codift05&repo=K-Means-Clustering&theme=dark&hide_border=true&bg_color=0D1117&title_color=7FAA65&text_color=8FB573&icon_color=7FAA65)](https://github.com/Codift05/K-Means-Clustering)
 
 </div>
-
----
-
-##  Current Focus
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-###  What I'm Building
-```typescript
-const currentProjects = {
-   webApp: "Next.js E-Commerce Platform",
-   mobileApp: "React Native Fitness Tracker",
-   aiProject: "Machine Learning Chatbot",
-   status: "In Active Development"
-};
-```
-
-</td>
-<td width="50%">
-
-###  What I'm Learning
-```python
-learning_path = {
-    "frontend": ["Next.js 15", "Three.js"],
-    "backend": ["GraphQL", "Microservices"],
-    "devops": ["Docker", "Kubernetes"],
-    "ai_ml": ["TensorFlow", "PyTorch"]
-}
-```
-
-</td>
-</tr>
-</table>
-
-### Current Sprint Goals
-
-<table>
-<tr>
-<td align="center" width="25%">
-  <svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect width="24" height="24" rx="6" fill="#7FAA65" fill-opacity="0.2"/>
-    <path d="M8 7h8M8 12h8M8 17h5" stroke="#7FAA65" stroke-width="2" stroke-linecap="round"/>
-  </svg>
-  <br><strong>Code Quality</strong>
-  <br><sub>Write clean, maintainable code</sub>
-</td>
-<td align="center" width="25%">
-  <svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect width="24" height="24" rx="6" fill="#8FB573" fill-opacity="0.2"/>
-    <circle cx="12" cy="12" r="8" stroke="#8FB573" stroke-width="2"/>
-    <path d="M12 8v4l3 3" stroke="#8FB573" stroke-width="2" stroke-linecap="round"/>
-  </svg>
-  <br><strong>Daily Learning</strong>
-  <br><sub>1 hour of focused learning</sub>
-</td>
-<td align="center" width="25%">
-  <svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect width="24" height="24" rx="6" fill="#A8C686" fill-opacity="0.2"/>
-    <path d="M12 3l9 18H3l9-18z" stroke="#A8C686" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M12 9v6M12 18h.01" stroke="#A8C686" stroke-width="2" stroke-linecap="round"/>
-  </svg>
-  <br><strong>Ship Features</strong>
-  <br><sub>Deploy weekly improvements</sub>
-</td>
-<td align="center" width="25%">
-  <svg width="60" height="60" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect width="24" height="24" rx="6" fill="#7FAA65" fill-opacity="0.2"/>
-    <circle cx="9" cy="7" r="3" stroke="#7FAA65" stroke-width="2"/>
-    <circle cx="15" cy="17" r="3" stroke="#7FAA65" stroke-width="2"/>
-    <path d="M9 10v7M15 14V7" stroke="#7FAA65" stroke-width="2" stroke-linecap="round"/>
-  </svg>
-  <br><strong>Contribute</strong>
-  <br><sub>Open source contributions</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## Let's Connect & Collaborate
 
