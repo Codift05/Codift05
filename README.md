@@ -65,16 +65,7 @@
 
 ---
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Codift05&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7FAA65&text_color=8FB573&icon_color=7FAA65"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codift05&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=7FAA65&text_color=8FB573"/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codift05&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=7FAA65&line=8FB573&point=A8C686" width="100%"/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Codift05&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
-</div>
-
----
 
 <div align="center">
 
