@@ -45,19 +45,6 @@ Kernel   Coffee-powered
 
 <br>
 
-<table>
-<tr>
-<td align="center">
-  <a href="https://github.com/Codift05/BioKonversi.App"><b>BioKonversi.App</b></a>
-  <br><sub>Digital bioconversion application</sub>
-</td>
-<td align="center">
-  <a href="https://github.com/Codift05/K-Means-Clustering"><b>K-Means Clustering</b></a>
-  <br><sub>Data clustering implementation</sub>
-</td>
-</tr>
-</table>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codift05&theme=dark&hide_border=true&background=0D1117&ring=51A2DA&fire=8BD5FF&currStreakLabel=51A2DA&sideLabels=A7B3A0" alt="GitHub streak">
 
 <br>
