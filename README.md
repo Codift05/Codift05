@@ -1,7 +1,5 @@
 <div align="center">
 
-# `CODIFT // SYSTEM ONLINE`
-
 <code>Computer Science Student · Software Developer · Indonesia</code>
 
 <br><br>
@@ -12,9 +10,9 @@
 <img src="img/fedora-terminal.svg" width="350" alt="Fedora Linux ASCII logo in blue terminal style">
 </td>
 <td valign="middle">
-<h3><code>miftahuddin@fedora</code></h3>
+<h3><code>Codift05</code></h3>
 <pre>
-OS       Fedora Linux
+Status   Eror 404
 Host     GitHub / Codift05
 Role     CS Student &amp; Developer
 Location Indonesia
@@ -27,9 +25,15 @@ Status   Building. Learning. Shipping.
 Kernel   Coffee-powered
 </pre>
 <p>
-  <a href="mailto:miftahsarsyd@gmail.com">EMAIL</a> //
-  <a href="https://www.linkedin.com/in/miftahuddin-s-arsyad/">LINKEDIN</a> //
-  <a href="https://www.instagram.com/mfthsarsyd">INSTAGRAM</a>
+  <a href="mailto:miftahsarsyd@gmail.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Email">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/miftahuddin-s-arsyad/" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/mfthsarsyd" title="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" height="28" alt="Instagram">
+  </a>
 </p>
 </td>
 </tr>
@@ -49,8 +53,6 @@ Kernel   Coffee-powered
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis,docker,git,linux,vscode&amp;theme=dark" alt="Databases and tools">
 </p>
 
-## `> projects --featured`
-
 <table>
 <tr>
 <td align="center">
@@ -63,8 +65,6 @@ Kernel   Coffee-powered
 </td>
 </tr>
 </table>
-
-## `> activity --live`
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codift05&theme=dark&hide_border=true&background=0D1117&ring=51A2DA&fire=8BD5FF&currStreakLabel=51A2DA&sideLabels=A7B3A0" alt="GitHub streak">
 
