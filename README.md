@@ -26,13 +26,13 @@ Kernel   Coffee-powered
 </pre>
 <p>
   <a href="mailto:miftahsarsyd@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Email">
+    <img src="img/gmail.svg" width="28" height="28" alt="Email">
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/miftahuddin-s-arsyad/" title="LinkedIn">
     <img src="img/linkedin.svg" width="28" height="28" alt="LinkedIn">
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/mfthsarsyd" title="Instagram">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" height="28" alt="Instagram">
+    <img src="img/instagram.svg" width="28" height="28" alt="Instagram">
   </a>
 </p>
 </td>
