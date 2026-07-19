@@ -29,7 +29,7 @@ Kernel   Coffee-powered
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Email">
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/miftahuddin-s-arsyad/" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn">
+    <img src="img/linkedin.svg" width="28" height="28" alt="LinkedIn">
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/mfthsarsyd" title="Instagram">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" height="28" alt="Instagram">
@@ -43,15 +43,9 @@ Kernel   Coffee-powered
 
 ## `> tech --list`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,dart,php&amp;theme=dark" alt="Programming languages">
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,flutter,tailwind,nodejs,express,fastapi,laravel&amp;theme=dark" alt="Frameworks">
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis,docker,git,linux,vscode&amp;theme=dark" alt="Databases and tools">
-</p>
+<img width="600" src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,dart,php,react,nextjs,vue,flutter,tailwind,nodejs,express,fastapi,laravel,postgres,mysql,mongodb,firebase,redis,docker,git,linux,vscode&amp;perline=9&amp;theme=dark" alt="Technology stack">
+
+<br><br>
 
 <table>
 <tr>
