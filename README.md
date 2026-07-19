@@ -12,7 +12,7 @@
 <td valign="middle">
 <h3><code>Codift05</code></h3>
 <pre>
-Status   Eror 404
+Status   Error 404
 Host     GitHub / Codift05
 Role     CS Student &amp; Developer
 Location Indonesia
