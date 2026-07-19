@@ -41,8 +41,6 @@ Kernel   Coffee-powered
 
 <img src="https://komarev.com/ghpvc/?username=Codift05&style=flat-square&color=51A2DA&label=SYSTEM+VISITS" alt="Profile views">
 
-## `> tech --list`
-
 <img width="780" src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,dart,php,html,css,sass,react,nextjs,vue,flutter,tailwind,nodejs,express,fastapi,laravel,bootstrap,materialui,vite,npm,pnpm,graphql,prisma,postgres,mysql,sqlite,mongodb,firebase,supabase,redis,docker,git,github,linux,nginx,aws,gcp,vercel,netlify,postman,figma,vscode&amp;perline=15&amp;theme=dark" alt="Technology stack">
 
 <br>
@@ -61,14 +59,6 @@ Kernel   Coffee-powered
 </table>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codift05&theme=dark&hide_border=true&background=0D1117&ring=51A2DA&fire=8BD5FF&currStreakLabel=51A2DA&sideLabels=A7B3A0" alt="GitHub streak">
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codift05/Codift05/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Codift05/Codift05/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Codift05/Codift05/output/github-contribution-grid-snake.svg">
-</picture>
 
 <br>
 
