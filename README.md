@@ -2,7 +2,7 @@
 
 <code>Computer Science Student · Software Developer · Indonesia</code>
 
-<br><br>
+<br>
 
 <table>
 <tr>
@@ -43,9 +43,9 @@ Kernel   Coffee-powered
 
 ## `> tech --list`
 
-<img width="600" src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,dart,php,react,nextjs,vue,flutter,tailwind,nodejs,express,fastapi,laravel,postgres,mysql,mongodb,firebase,redis,docker,git,linux,vscode&amp;perline=9&amp;theme=dark" alt="Technology stack">
+<img width="780" src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,dart,php,html,css,sass,react,nextjs,vue,flutter,tailwind,nodejs,express,fastapi,laravel,bootstrap,materialui,vite,npm,pnpm,graphql,prisma,postgres,mysql,sqlite,mongodb,firebase,supabase,redis,docker,git,github,linux,nginx,aws,gcp,vercel,netlify,postman,figma,vscode&amp;perline=15&amp;theme=dark" alt="Technology stack">
 
-<br><br>
+<br>
 
 <table>
 <tr>
@@ -62,7 +62,7 @@ Kernel   Coffee-powered
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codift05&theme=dark&hide_border=true&background=0D1117&ring=51A2DA&fire=8BD5FF&currStreakLabel=51A2DA&sideLabels=A7B3A0" alt="GitHub streak">
 
-<br><br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codift05/Codift05/output/github-contribution-grid-snake-dark.svg">
@@ -70,7 +70,7 @@ Kernel   Coffee-powered
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Codift05/Codift05/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br><br>
+<br>
 
 <code>[ J.A.R.V.I.S. ] while (alive) { learn(); build(); improve(); }</code>
 
